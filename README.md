@@ -1,7 +1,9 @@
 # Metode Numerik Implementasi Interpolasi
 
 Nama  : Muhammad Fuad Fakhruzzaki
+
 NIM   : 21120122130052
+
 Kelas : Metode Numerik Kelas D
 
 Hasil Running code :
